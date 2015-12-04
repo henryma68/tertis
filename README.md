@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Privileged empty app
 
 This is a privileged empty app template that provides you with a barebones structure for you to build your app.
@@ -66,3 +67,6 @@ Contributions are always welcome! If you want to collaborate, whether that is wi
 * Send a pull request
 
 To make your changes as easy to merge back onto the project as possible, you should only work on one feature per branch. That makes code review simpler and faster!
+=======
+# tertis
+>>>>>>> b8b9fb89e3413111cc7e0c5d9f2c27873c35ca64
